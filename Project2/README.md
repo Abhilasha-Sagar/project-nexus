@@ -18,13 +18,13 @@ The project includes the following files:
 1. Clone the repository:
 
    ```bash
-   git clone [<repository_url>](https://github.com/Abhilasha-Sagar/project-nexus)
+   git clone [(https://github.com/Abhilasha-Sagar/project-nexus)]
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd [<project_directory>](https://github.com/Abhilasha-Sagar/project-nexus/tree/main/Project2)
+   cd [(https://github.com/Abhilasha-Sagar/project-nexus/tree/main/Project2)]
    ```
 
 3. Install the required dependencies:
