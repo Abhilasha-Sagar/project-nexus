@@ -17,7 +17,7 @@ This repository contains the code for the nextechy website, inspired by the tuto
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Abhilasha-Sagar/project-nexus.git
     cd <repository-directory>
     ```
 
