@@ -18,7 +18,7 @@ This repository contains the code for the nextechy website, inspired by the tuto
 
     ```bash
     git clone https://github.com/Abhilasha-Sagar/project-nexus.git
-    cd https://github.com/Abhilasha-Sagar/project-nexus/tree/main/Project3
+    cd Project3
     ```
 
 2. Install dependencies:
